@@ -27,35 +27,319 @@ Timoshenko, Stephen P., and S. Woinowsky-Krieger. _Theory of Plates and Shells_.
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 40% |
-| Mid-term self-quiz | Not graded |
-| Final quiz | 40% |
-| Class participation | 20%   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term self-quiz
+{{< tdclose >}}
+{{< tdopen >}}
+Not graded
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final quiz
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+  
 
 {{< anchor "cal" >}}{{< /anchor >}}Calendar
 -------------------------------------------
 
-| Lec # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Preliminary, index notation, strain-displacement relation for continuum and plates |  |
-| 2 | Derivation of plate equilibrium equation and boundary conditions through variational principle |  |
-| 3 | Selected bending solutions for plate problems |  |
-| 4 | Theory of moderately large deflection of elastic plates |  |
-| 5 | Example problem with axi-symmetric plate/membrane |  |
-| 6 | Buckling of plates, general formulation | Homework 1 due |
-| 7 | Buckling of rectangular plates |  |
-| 8 | Raleigh-Ritz quotient for plate buckling |  |
-| 9 | Buckling of cold-formed section and stiffened plates | Homework 2 due |
-| 10 | Self-evaluation by a mini-quiz in the first half an hour | Self-quiz due |
-| 11 | Discussion of the mini-quiz |  |
-| 12 | Ultimate strength of plates and elastic/plastic buckling | Homework 3 due |
-| 13 | Elastic buckling of cylindrical shells (1) |  |
-| 14 | Elastic buckling of cylindrical shells (2) |  |
-| 15 | Fundamentals of structural plasticity | Homework 4 due |
-| 16 | Limit analysis of simple plastic structures |  |
-| 17 | Energy absorption and crashworthiness of prismatic tubes |  |
-| 18 | Local denting analysis of tubes and propagating buckles in pipelines | Homework 5 due 1 day before Lec #18 |
-| 19 | Cutting and denting of plates with application to collision and grounding of ships |  |
-| 20 | Final quiz | Final quiz in-class portion due  {{< br >}}  {{< br >}}Final quiz take-home portion due 3 days after Lec #20
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Preliminary, index notation, strain-displacement relation for continuum and plates
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Derivation of plate equilibrium equation and boundary conditions through variational principle
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Selected bending solutions for plate problems
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Theory of moderately large deflection of elastic plates
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Example problem with axi-symmetric plate/membrane
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Buckling of plates, general formulation
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Buckling of rectangular plates
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Raleigh-Ritz quotient for plate buckling
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Buckling of cold-formed section and stiffened plates
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Self-evaluation by a mini-quiz in the first half an hour
+{{< tdclose >}}
+{{< tdopen >}}
+Self-quiz due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of the mini-quiz
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Ultimate strength of plates and elastic/plastic buckling
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Elastic buckling of cylindrical shells (1)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Elastic buckling of cylindrical shells (2)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamentals of structural plasticity
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Limit analysis of simple plastic structures
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Energy absorption and crashworthiness of prismatic tubes
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Local denting analysis of tubes and propagating buckles in pipelines
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 due 1 day before Lec #18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Cutting and denting of plates with application to collision and grounding of ships
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Final quiz
+{{< tdclose >}}
+{{< tdopen >}}
+Final quiz in-class portion due  
+  
+Final quiz take-home portion due 3 days after Lec #20
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
